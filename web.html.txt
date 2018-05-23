@@ -1,4 +1,6 @@
 <html>
+<meta>
+<jscripts>
 <head>
 </head>
 <body>
